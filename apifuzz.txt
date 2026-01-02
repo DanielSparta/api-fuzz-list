@@ -19,7 +19,6 @@ ustats
 CuethisQuest
 LuaV_113505
 /api/updates
-logout
 SkillLevelUpFrame_UpdateTypeNumber
 AuctionClose
 pr
@@ -3732,7 +3731,6 @@ v6.60
 audio
 LuaV_114057
 shows
-/v1/logout
 /api/v1/proxy_timeout
 LuaV_113671
 UIDropDownMenu_OnUpdate
@@ -3775,7 +3773,6 @@ v1.11
 family
 v8.42
 v7.63
-Logout
 mediakit
 GC_SetPCBloodBar
 GroupLootFrame_OpenNewFrame
@@ -9153,7 +9150,6 @@ GuildBank_SetStoreConfig
 UseSelfRevive
 HouseServantEquipItemButton_OnClick
 /api/resetPassword
-/api/logout
 simRMLMoveToJointPositions
 baPasteText
 simInvertMatrix (see simGetInvertedMatrix for the Lua-equivalent)
@@ -10475,7 +10471,6 @@ action
 NpcTrackFrame_SetTabID
 CreateHeightfieldShape
 RequestTrade
-/v3/logout
 /swagger/index.html
 _admin_notice_multisite_activate_plugins_page
 v7.94
